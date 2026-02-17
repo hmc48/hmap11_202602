@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_11_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "緯度": 35.8756294, "経度": 139.6087877, "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1196500340-00&ServiceCd=361&Type=search", "url2": null, "内容": "ミモザ浦和【地域密着型特定施設入居者生活介護（有料老人ホーム）】埼玉県さいたま市桜区大字神田７１５番地", "サービスの種類": "地域密着型特定施設入居者生活介護（有料老人ホーム）" }, "geometry": { "type": "Point", "coordinates": [ 139.6087877, 35.8756294 ] } },
+{ "type": "Feature", "properties": { "緯度": 35.9204544, "経度": 139.4421257, "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1190400182-00&ServiceCd=361&Type=search", "url2": "https://mimoza-care.com/facility/paid-nursing-home/post-2766/", "内容": "ミモザ川越【地域密着型特定施設入居者生活介護（有料老人ホーム）】埼玉県川越市大字的場2464番地2", "サービスの種類": "地域密着型特定施設入居者生活介護（有料老人ホーム）" }, "geometry": { "type": "Point", "coordinates": [ 139.4421257, 35.9204544 ] } },
+{ "type": "Feature", "properties": { "緯度": 35.8261517, "経度": 139.7380249, "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1192000048-00&ServiceCd=361&Type=search", "url2": "http//hatogaya-hp.or.jp", "内容": "まごころホーム三ツ和【地域密着型特定施設入居者生活介護（有料老人ホーム）】埼玉県川口市坂下町4-15-4", "サービスの種類": "地域密着型特定施設入居者生活介護（有料老人ホーム）" }, "geometry": { "type": "Point", "coordinates": [ 139.738024900000028, 35.8261517 ] } }
+]
+}
